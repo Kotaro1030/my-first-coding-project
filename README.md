@@ -1,2 +1,2 @@
 # my-first-coding-project
-私がGitHubを初めて最初に作成したプロジェクトです。
+2026 8/7 My first coding
